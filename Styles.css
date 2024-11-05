@@ -1,0 +1,21 @@
+.card {
+    max-width: 600px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 15px;
+    overflow: hidden;
+  }
+  .card img {
+    max-height: 400px;
+    object-fit: cover;
+  }
+  
+  .qr-code {
+    margin-top: 20px;
+  }
+  
+  .qr-code img {
+    max-width: 200px;
+    height: auto;
+  }
+  
